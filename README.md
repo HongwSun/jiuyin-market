@@ -4,7 +4,7 @@
 
 这是一个浏览器书签脚本（Bookmarklet），在九阴真经集市页面右侧弹出查询面板，将全服所有公示期角色集中展示，并对比历史成交价，方便筛选高性价比账号。
 
-![image-20260919215852091](C:\Users\silas\AppData\Roaming\Typora\typora-user-images\image-20260919215852091.png)
+<img width="1470" height="918" alt="image" src="https://github.com/user-attachments/assets/675ff2ab-8af2-4fc1-9909-8bc9cc2b0058" />
 
 ### 核心功能
 - **全服查询**：自动翻页获取所有服务器的全部公示期角色，无需逐个切换服务器
